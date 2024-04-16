@@ -1,0 +1,22 @@
+System zarządzania centrum sportowym
+
+Firma póki co jest prostym centrum sportowym.Przy wejściu trzeba się zameldować na recepcji poprzez podanie danych osobowych. W szatniach szafki są na klucze. Maszyny na siłowni nie monitorują postępów klientów. Stołówka wydaje posiłki w oparciu na zamówienia z podanego Menu. Obecnie jest dostępny tylko jeden drogi pakiet do wszystkich stref centrum.
+
+Wprowadzony system będzie oferować:
+1.Wejście do centrum za pomocą zeskanowania kodu QR ze smartfonu.
+2.Odblokowywanie i zapamiętanie która szafka danego dnia została przydzielona klientowi.
+3.Wprowadzenie automatycznych bramek, dzielących różne strefy centrum.
+4.Możliwość wykupienia różnych pakietów tylko na porządane strefy.
+5.Możliwość wykupienia online planu treningowego i monitorowanie efektów ćwiczeń przez trenera na bieżąco.
+6.Maszyny z możliwością rejestrowania wyników swoich treningów.
+7.Możliwość wykupienia i zarządzania swoim karnetem online.
+8.Możłiwość udostępniania sowich rekordów na portalach społecznościowych.
+9.System powiadomień przypominających o rozplanowanych treningach.
+10.Opisy i materiały wideo poprawnie wykonywanych ćwiczeń w wersji online.
+11.Możliwość wykupienia spersonalizowanej rozpiski diety.
+12.Możliwość wykupienia cateringu odpowiednio dostosowanego do diety.
+13.Dostęp do bazy danych, zawierającej dane klientów.
+14.Tworzenia zapotrzebowania na produkty spożywcze ze względu na zamówienia klientów.
+15.Możliwość komunikacji z klientami online.
+16.Możliwość wysyłania ofert promocyjnych do klientów.
+17.System obsługi płatności.
